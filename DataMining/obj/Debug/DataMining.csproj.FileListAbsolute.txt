@@ -1,0 +1,11 @@
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\bin\Debug\DataMining.exe.config
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\bin\Debug\DataMining.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\bin\Debug\DataMining.pdb
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.FrmMain.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.Cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.exe
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.pdb
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.csprojResolveAssemblyReference.cache
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.FrmAboutProgram.resources
+C:\Users\Ramin\documents\visual studio 2012\Projects\DataMining\DataMining\obj\Debug\DataMining.FrmSplash.resources
